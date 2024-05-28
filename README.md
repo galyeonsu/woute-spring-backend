@@ -31,7 +31,8 @@
 https://www.youtube.com/watch?v=tda-S2zzpWY
 
 ## 기능 구현 정리
-[Download PDF](https://github.com/galyeonsu/woute-spring-backend/raw/main/-._.pdf)
+![프로젝트 이미지](https://github.com/galyeonsu/woute-spring-backend/assets/149341822/8698ae61-81a1-421b-ad08-7678b06b6f9a)
+
 
 
 ## 회고록

@@ -24,8 +24,8 @@
 ## 링크
 [발표 PPT](https://github.com/121Mbp/woute-spring-backend/files/14001736/bts2woute_final.pdf)
 
-http://3.36.219.193
-
+### 기능구현영상
+https://www.youtube.com/watch?v=tda-S2zzpWY&t=70s
 
 ## 일정 (2023. 12. 08 ~ 2014. 01. 12)
 <details>
@@ -104,7 +104,6 @@ http://3.36.219.193
 ```
 [add] 지도 api 추가
 ```
-
 
 ## Final Project FE: Woute
 #### [프론트 페이지](https://github.com/121Mbp/woute-react-frontend)

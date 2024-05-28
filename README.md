@@ -25,10 +25,10 @@
 [발표 PPT](https://github.com/121Mbp/woute-spring-backend/files/14001736/bts2woute_final.pdf)
 
 
-  <img src="https://github.com/galyeonsu/CafeAnyOne/assets/149341822/d80ae4ec-5ff4-4300-b832-a965d798ae0e">
+
 
 ### 기능구현영상
-https://www.youtube.com/watch?v=tda-S2zzpWY&t=70s
+
 
 
 ## 회고록
